@@ -1,0 +1,597 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9DE5B7BB25377F8500A8EED7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DE5B7BA25377F8500A8EED7 /* AppDelegate.swift */; };
+		9DE5B7BD25377F8500A8EED7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DE5B7BC25377F8500A8EED7 /* ContentView.swift */; };
+		9DE5B7BF25377F8700A8EED7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DE5B7BE25377F8700A8EED7 /* Assets.xcassets */; };
+		9DE5B7C225377F8700A8EED7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DE5B7C125377F8700A8EED7 /* Preview Assets.xcassets */; };
+		9DE5B7C525377F8700A8EED7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DE5B7C325377F8700A8EED7 /* Main.storyboard */; };
+		9DE5B7D125377F8700A8EED7 /* BORIS_behavior_error_checkingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DE5B7D025377F8700A8EED7 /* BORIS_behavior_error_checkingTests.swift */; };
+		9DE5B7DC25377F8700A8EED7 /* BORIS_behavior_error_checkingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DE5B7DB25377F8700A8EED7 /* BORIS_behavior_error_checkingUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		9DE5B7CD25377F8700A8EED7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9DE5B7AF25377F8500A8EED7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9DE5B7B625377F8500A8EED7;
+			remoteInfo = "BORIS behavior error checking";
+		};
+		9DE5B7D825377F8700A8EED7 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9DE5B7AF25377F8500A8EED7 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9DE5B7B625377F8500A8EED7;
+			remoteInfo = "BORIS behavior error checking";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		9DE5B7B725377F8500A8EED7 /* BORIS behavior error checking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BORIS behavior error checking.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DE5B7BA25377F8500A8EED7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		9DE5B7BC25377F8500A8EED7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		9DE5B7BE25377F8700A8EED7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9DE5B7C125377F8700A8EED7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9DE5B7C425377F8700A8EED7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		9DE5B7C625377F8700A8EED7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9DE5B7C725377F8700A8EED7 /* BORIS_behavior_error_checking.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = BORIS_behavior_error_checking.entitlements; sourceTree = "<group>"; };
+		9DE5B7CC25377F8700A8EED7 /* BORIS behavior error checkingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "BORIS behavior error checkingTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DE5B7D025377F8700A8EED7 /* BORIS_behavior_error_checkingTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BORIS_behavior_error_checkingTests.swift; sourceTree = "<group>"; };
+		9DE5B7D225377F8700A8EED7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9DE5B7D725377F8700A8EED7 /* BORIS behavior error checkingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "BORIS behavior error checkingUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DE5B7DB25377F8700A8EED7 /* BORIS_behavior_error_checkingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BORIS_behavior_error_checkingUITests.swift; sourceTree = "<group>"; };
+		9DE5B7DD25377F8700A8EED7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9DE5B7B425377F8500A8EED7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DE5B7C925377F8700A8EED7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DE5B7D425377F8700A8EED7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9DE5B7AE25377F8500A8EED7 = {
+			isa = PBXGroup;
+			children = (
+				9DE5B7B925377F8500A8EED7 /* BORIS behavior error checking */,
+				9DE5B7CF25377F8700A8EED7 /* BORIS behavior error checkingTests */,
+				9DE5B7DA25377F8700A8EED7 /* BORIS behavior error checkingUITests */,
+				9DE5B7B825377F8500A8EED7 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9DE5B7B825377F8500A8EED7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9DE5B7B725377F8500A8EED7 /* BORIS behavior error checking.app */,
+				9DE5B7CC25377F8700A8EED7 /* BORIS behavior error checkingTests.xctest */,
+				9DE5B7D725377F8700A8EED7 /* BORIS behavior error checkingUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9DE5B7B925377F8500A8EED7 /* BORIS behavior error checking */ = {
+			isa = PBXGroup;
+			children = (
+				9DE5B7BA25377F8500A8EED7 /* AppDelegate.swift */,
+				9DE5B7BC25377F8500A8EED7 /* ContentView.swift */,
+				9DE5B7BE25377F8700A8EED7 /* Assets.xcassets */,
+				9DE5B7C325377F8700A8EED7 /* Main.storyboard */,
+				9DE5B7C625377F8700A8EED7 /* Info.plist */,
+				9DE5B7C725377F8700A8EED7 /* BORIS_behavior_error_checking.entitlements */,
+				9DE5B7C025377F8700A8EED7 /* Preview Content */,
+			);
+			path = "BORIS behavior error checking";
+			sourceTree = "<group>";
+		};
+		9DE5B7C025377F8700A8EED7 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				9DE5B7C125377F8700A8EED7 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		9DE5B7CF25377F8700A8EED7 /* BORIS behavior error checkingTests */ = {
+			isa = PBXGroup;
+			children = (
+				9DE5B7D025377F8700A8EED7 /* BORIS_behavior_error_checkingTests.swift */,
+				9DE5B7D225377F8700A8EED7 /* Info.plist */,
+			);
+			path = "BORIS behavior error checkingTests";
+			sourceTree = "<group>";
+		};
+		9DE5B7DA25377F8700A8EED7 /* BORIS behavior error checkingUITests */ = {
+			isa = PBXGroup;
+			children = (
+				9DE5B7DB25377F8700A8EED7 /* BORIS_behavior_error_checkingUITests.swift */,
+				9DE5B7DD25377F8700A8EED7 /* Info.plist */,
+			);
+			path = "BORIS behavior error checkingUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9DE5B7B625377F8500A8EED7 /* BORIS behavior error checking */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9DE5B7E025377F8700A8EED7 /* Build configuration list for PBXNativeTarget "BORIS behavior error checking" */;
+			buildPhases = (
+				9DE5B7B325377F8500A8EED7 /* Sources */,
+				9DE5B7B425377F8500A8EED7 /* Frameworks */,
+				9DE5B7B525377F8500A8EED7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "BORIS behavior error checking";
+			productName = "BORIS behavior error checking";
+			productReference = 9DE5B7B725377F8500A8EED7 /* BORIS behavior error checking.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9DE5B7CB25377F8700A8EED7 /* BORIS behavior error checkingTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9DE5B7E325377F8700A8EED7 /* Build configuration list for PBXNativeTarget "BORIS behavior error checkingTests" */;
+			buildPhases = (
+				9DE5B7C825377F8700A8EED7 /* Sources */,
+				9DE5B7C925377F8700A8EED7 /* Frameworks */,
+				9DE5B7CA25377F8700A8EED7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9DE5B7CE25377F8700A8EED7 /* PBXTargetDependency */,
+			);
+			name = "BORIS behavior error checkingTests";
+			productName = "BORIS behavior error checkingTests";
+			productReference = 9DE5B7CC25377F8700A8EED7 /* BORIS behavior error checkingTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		9DE5B7D625377F8700A8EED7 /* BORIS behavior error checkingUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9DE5B7E625377F8700A8EED7 /* Build configuration list for PBXNativeTarget "BORIS behavior error checkingUITests" */;
+			buildPhases = (
+				9DE5B7D325377F8700A8EED7 /* Sources */,
+				9DE5B7D425377F8700A8EED7 /* Frameworks */,
+				9DE5B7D525377F8700A8EED7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9DE5B7D925377F8700A8EED7 /* PBXTargetDependency */,
+			);
+			name = "BORIS behavior error checkingUITests";
+			productName = "BORIS behavior error checkingUITests";
+			productReference = 9DE5B7D725377F8700A8EED7 /* BORIS behavior error checkingUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9DE5B7AF25377F8500A8EED7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1200;
+				LastUpgradeCheck = 1200;
+				TargetAttributes = {
+					9DE5B7B625377F8500A8EED7 = {
+						CreatedOnToolsVersion = 12.0.1;
+					};
+					9DE5B7CB25377F8700A8EED7 = {
+						CreatedOnToolsVersion = 12.0.1;
+						TestTargetID = 9DE5B7B625377F8500A8EED7;
+					};
+					9DE5B7D625377F8700A8EED7 = {
+						CreatedOnToolsVersion = 12.0.1;
+						TestTargetID = 9DE5B7B625377F8500A8EED7;
+					};
+				};
+			};
+			buildConfigurationList = 9DE5B7B225377F8500A8EED7 /* Build configuration list for PBXProject "BORIS behavior error checking" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9DE5B7AE25377F8500A8EED7;
+			productRefGroup = 9DE5B7B825377F8500A8EED7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9DE5B7B625377F8500A8EED7 /* BORIS behavior error checking */,
+				9DE5B7CB25377F8700A8EED7 /* BORIS behavior error checkingTests */,
+				9DE5B7D625377F8700A8EED7 /* BORIS behavior error checkingUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9DE5B7B525377F8500A8EED7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9DE5B7C525377F8700A8EED7 /* Main.storyboard in Resources */,
+				9DE5B7C225377F8700A8EED7 /* Preview Assets.xcassets in Resources */,
+				9DE5B7BF25377F8700A8EED7 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DE5B7CA25377F8700A8EED7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DE5B7D525377F8700A8EED7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9DE5B7B325377F8500A8EED7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9DE5B7BD25377F8500A8EED7 /* ContentView.swift in Sources */,
+				9DE5B7BB25377F8500A8EED7 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DE5B7C825377F8700A8EED7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9DE5B7D125377F8700A8EED7 /* BORIS_behavior_error_checkingTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9DE5B7D325377F8700A8EED7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9DE5B7DC25377F8700A8EED7 /* BORIS_behavior_error_checkingUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9DE5B7CE25377F8700A8EED7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9DE5B7B625377F8500A8EED7 /* BORIS behavior error checking */;
+			targetProxy = 9DE5B7CD25377F8700A8EED7 /* PBXContainerItemProxy */;
+		};
+		9DE5B7D925377F8700A8EED7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9DE5B7B625377F8500A8EED7 /* BORIS behavior error checking */;
+			targetProxy = 9DE5B7D825377F8700A8EED7 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		9DE5B7C325377F8700A8EED7 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				9DE5B7C425377F8700A8EED7 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		9DE5B7DE25377F8700A8EED7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		9DE5B7DF25377F8700A8EED7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		9DE5B7E125377F8700A8EED7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "BORIS behavior error checking/BORIS_behavior_error_checking.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_ASSET_PATHS = "\"BORIS behavior error checking/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "BORIS behavior error checking/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				PRODUCT_BUNDLE_IDENTIFIER = "behavior.BORIS-behavior-error-checking";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		9DE5B7E225377F8700A8EED7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "BORIS behavior error checking/BORIS_behavior_error_checking.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_ASSET_PATHS = "\"BORIS behavior error checking/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "BORIS behavior error checking/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				PRODUCT_BUNDLE_IDENTIFIER = "behavior.BORIS-behavior-error-checking";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		9DE5B7E425377F8700A8EED7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "BORIS behavior error checkingTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				PRODUCT_BUNDLE_IDENTIFIER = "behavior.BORIS-behavior-error-checkingTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BORIS behavior error checking.app/Contents/MacOS/BORIS behavior error checking";
+			};
+			name = Debug;
+		};
+		9DE5B7E525377F8700A8EED7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "BORIS behavior error checkingTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				PRODUCT_BUNDLE_IDENTIFIER = "behavior.BORIS-behavior-error-checkingTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BORIS behavior error checking.app/Contents/MacOS/BORIS behavior error checking";
+			};
+			name = Release;
+		};
+		9DE5B7E725377F8700A8EED7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "BORIS behavior error checkingUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "behavior.BORIS-behavior-error-checkingUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "BORIS behavior error checking";
+			};
+			name = Debug;
+		};
+		9DE5B7E825377F8700A8EED7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				INFOPLIST_FILE = "BORIS behavior error checkingUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "behavior.BORIS-behavior-error-checkingUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "BORIS behavior error checking";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9DE5B7B225377F8500A8EED7 /* Build configuration list for PBXProject "BORIS behavior error checking" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9DE5B7DE25377F8700A8EED7 /* Debug */,
+				9DE5B7DF25377F8700A8EED7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9DE5B7E025377F8700A8EED7 /* Build configuration list for PBXNativeTarget "BORIS behavior error checking" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9DE5B7E125377F8700A8EED7 /* Debug */,
+				9DE5B7E225377F8700A8EED7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9DE5B7E325377F8700A8EED7 /* Build configuration list for PBXNativeTarget "BORIS behavior error checkingTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9DE5B7E425377F8700A8EED7 /* Debug */,
+				9DE5B7E525377F8700A8EED7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9DE5B7E625377F8700A8EED7 /* Build configuration list for PBXNativeTarget "BORIS behavior error checkingUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9DE5B7E725377F8700A8EED7 /* Debug */,
+				9DE5B7E825377F8700A8EED7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9DE5B7AF25377F8500A8EED7 /* Project object */;
+}
