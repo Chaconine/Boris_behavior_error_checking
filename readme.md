@@ -1,8 +1,8 @@
 # BORIS Behavior File Error Checker
 
-## Created by Joseph Maa
-## Email: josephgmaa@berkeley.edu
-## Last updated: 10/19/20
+### Created by Joseph Maa
+### Email: josephgmaa@berkeley.edu
+### Last updated: 10/19/20
 
 This script takes in multiple BORIS behavior files and checks for errors (i.e. event chronology errors (START START / STOP STOP) and animal position errors (Left -> Right without passing center)).
 
