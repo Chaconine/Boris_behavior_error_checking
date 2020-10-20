@@ -1,0 +1,948 @@
+Observation id,RMK V1618 PPT,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,,,,,,,
+,,,,,,,,
+Observation date,2020-05-23 02:26:04,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.0,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+537.666,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Assay start,,,POINT
+537.666,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+538.849,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+538.850,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+539.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+539.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+539.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+539.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+542.249,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+542.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+543.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+543.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+544.449,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+544.450,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+544.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+544.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+544.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+544.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+544.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+544.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+544.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+545.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+545.649,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+545.650,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+546.299,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+546.300,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+547.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+547.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+548.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+548.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+549.299,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+549.300,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+549.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+550.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+550.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+550.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,START
+551.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,STOP
+551.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+552.149,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+552.150,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,START
+552.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,STOP
+552.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+552.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+552.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+552.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+552.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+553.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+553.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+554.649,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+554.650,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+555.649,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+555.650,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,START
+556.299,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,STOP
+556.300,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+556.649,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+556.650,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+557.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+557.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+557.399,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+557.400,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+557.599,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+557.600,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+557.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+557.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+557.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+557.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+558.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+558.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+563.449,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+563.450,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+564.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+564.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+569.399,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+569.400,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+570.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+570.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+571.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+571.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+571.449,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+571.450,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+573.499,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+573.500,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+574.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+574.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+575.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+575.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,START
+575.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,STOP
+576.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+577.149,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+577.150,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+578.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+578.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+578.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+578.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+580.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+580.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+581.149,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+581.150,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+584.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+584.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+584.499,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+584.500,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,START
+584.649,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,STOP
+584.650,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+588.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+588.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+590.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+590.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+591.449,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+591.450,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+593.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+593.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+594.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+594.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,START
+595.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,STOP
+595.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+595.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+595.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+595.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+595.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+596.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+596.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+597.149,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+597.150,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,START
+599.249,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,STOP
+599.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+601.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+601.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+601.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+602.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+602.299,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+602.300,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+602.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+602.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+602.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+602.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+602.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+602.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+606.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+606.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+609.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+609.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+613.599,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+613.600,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+613.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+613.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+625.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+625.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+625.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+625.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+626.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+626.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+628.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+628.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+645.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+645.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+645.599,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+645.600,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,START
+646.249,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,STOP
+646.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+646.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+646.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+647.149,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+647.150,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,START
+647.849,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,STOP
+647.850,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+647.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+648.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+648.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+648.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,START
+649.399,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,STOP
+649.400,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+649.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+649.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,START
+649.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,STOP
+649.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+659.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+659.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+660.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+660.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+660.499,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+660.500,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,START
+660.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,STOP
+660.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+661.849,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+661.850,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+674.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+674.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+675.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+675.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+675.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+675.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+698.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+698.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+699.649,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+699.650,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,START
+706.499,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,STOP
+706.500,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+709.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+709.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+709.849,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+709.850,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,START
+710.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,STOP
+711.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+733.649,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+733.650,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+733.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+733.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+733.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+733.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+734.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+734.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+736.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+736.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+736.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+736.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,START
+736.449,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,STOP
+736.450,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+736.599,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+736.600,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+738.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+738.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+741.149,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+741.150,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+741.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+741.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+741.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+741.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,START
+742.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,STOP
+742.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+742.299,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+742.300,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,START
+742.399,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,STOP
+742.400,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+743.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+743.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+743.849,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+743.850,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+745.249,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+745.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+747.299,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+747.300,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+753.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+753.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+754.149,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+754.150,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+754.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+754.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+755.249,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+755.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+755.399,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+755.400,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+775.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+775.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+776.299,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+776.300,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+821.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+822.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+822.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+822.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+822.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+822.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+825.149,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+825.150,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+825.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+825.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+825.599,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+825.600,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+825.849,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+825.850,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+825.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+825.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+826.149,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+826.150,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+826.599,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+826.600,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+827.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+827.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+828.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+828.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+828.299,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+828.300,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+828.399,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+828.400,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+829.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+829.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+830.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+830.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+831.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+831.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+832.449,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+832.450,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+832.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+832.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+832.649,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+832.650,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+832.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+832.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+832.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+833.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+833.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+833.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+836.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+836.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+836.849,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+836.850,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+837.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+837.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+837.149,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+837.150,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+837.849,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+837.850,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+838.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+838.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+839.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+839.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+839.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+839.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+839.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+839.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+839.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+839.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+840.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+840.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+841.399,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+841.400,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+845.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+845.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+845.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+846.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+846.399,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+846.400,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+849.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+849.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+849.299,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+849.300,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+849.449,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+849.450,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+849.849,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+849.850,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+851.499,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+851.500,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+902.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+902.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+909.599,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+909.600,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+915.499,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+915.500,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+915.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+915.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+916.499,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+916.500,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+916.849,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+916.850,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+917.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+917.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+918.249,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+918.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+918.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+918.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+918.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+918.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+918.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+918.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+921.499,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+921.500,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+954.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+954.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+959.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+960.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+961.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+961.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+962.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+962.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+962.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+962.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+975.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+975.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+982.649,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+982.650,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+987.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+987.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+987.499,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+987.500,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,START
+987.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,STOP
+987.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+992.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+992.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+994.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+995.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+995.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+996.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+996.249,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+996.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+997.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+997.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+997.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+997.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1003.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1003.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1004.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1004.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1005.399,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1005.400,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1005.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1006.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1006.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1006.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1006.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1006.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1006.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1006.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1006.599,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1006.600,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1007.299,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1007.300,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1007.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1008.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1014.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Intervention,,,START
+1027.400,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Intervention,,,STOP
+1027.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1027.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+1027.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+1027.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1028.599,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1028.600,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+1029.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+1029.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1055.499,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1055.500,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+1055.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+1055.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1056.499,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1056.500,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+1056.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+1056.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1056.849,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1056.850,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+1056.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+1056.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1056.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1057.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+1057.399,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+1057.400,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+1069.249,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+1069.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1069.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1069.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,START
+1070.249,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,STOP
+1070.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+1132.849,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+1132.850,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1133.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1133.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+1208.499,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+1208.500,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1208.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1209.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+1209.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+1209.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1210.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1210.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+1215.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+1215.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1216.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1216.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+1269.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+1269.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1276.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1276.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+1277.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+1277.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+1277.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+1277.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1278.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1278.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+1278.499,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+1278.500,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+1858.499,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+1858.500,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1871.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1871.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+1871.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+1871.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1871.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1872.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+1872.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+1872.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1872.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1872.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+1872.599,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+1872.600,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1872.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1872.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+1872.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+1872.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1872.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1872.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+1873.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+1873.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1873.849,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1873.850,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,START
+1874.149,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,STOP
+1874.150,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1874.449,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1874.450,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,START
+1874.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,STOP
+1874.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+1875.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+1875.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1875.149,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1875.150,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,START
+1875.499,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,STOP
+1875.500,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1875.649,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1875.650,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,START
+1876.249,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,STOP
+1876.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1876.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1876.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+1876.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+1876.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1877.149,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1877.150,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+1877.599,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+1877.600,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1877.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1877.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1877.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1878.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1880.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1880.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1880.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1880.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1884.149,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1884.150,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1884.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1884.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1885.149,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1885.150,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1885.299,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1885.300,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1885.449,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1885.450,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1885.649,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1885.650,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1886.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1886.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1886.249,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1886.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1900.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1900.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,START
+1901.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,STOP
+1901.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1902.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1902.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1902.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1902.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1904.599,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1904.600,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,START
+1906.499,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,STOP
+1906.500,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1908.849,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1908.850,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1909.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1909.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1909.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1909.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+1910.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+1910.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1911.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1911.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1911.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1911.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1912.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1912.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1913.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1913.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1913.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1914.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,START
+1915.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,STOP
+1915.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1929.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1929.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1929.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1929.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1931.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1931.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+1932.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+1932.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1940.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1940.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+1941.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+1941.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1944.399,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1944.400,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+1944.449,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+1944.450,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1950.449,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1950.450,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1951.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1951.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1952.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1952.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1952.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1952.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1954.599,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1954.600,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1955.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1955.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1956.299,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1956.300,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1956.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1956.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1959.299,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1959.300,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+1959.449,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+1959.450,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1959.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1959.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+1960.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+1960.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1964.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1964.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+1964.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+1965.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1967.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1967.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+1968.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+1968.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1969.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1969.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1969.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1969.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1970.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1970.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1970.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1971.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1971.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1971.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+1971.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+1971.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,START
+1972.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,STOP
+1972.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1973.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1973.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1973.249,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1973.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,START
+1973.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,STOP
+1973.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1973.649,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1973.650,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+1973.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+1973.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1974.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1974.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+1974.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+1975.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,START
+1975.249,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,STOP
+1975.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1976.399,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1976.400,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+1976.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+1976.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1977.249,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1977.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+1977.299,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+1977.300,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1977.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1977.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+1980.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+1980.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1980.299,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1980.300,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+1980.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+1980.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+1985.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+1985.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+1985.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+1985.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1987.249,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1987.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+1987.299,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+1987.300,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1987.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1987.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+1987.849,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+1987.850,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1988.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1988.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+1988.299,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+1988.300,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+1988.599,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+1988.600,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+1989.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+1989.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+1999.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+1999.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2003.149,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2003.150,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,START
+2006.249,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,STOP
+2006.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+2094.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+2094.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2098.599,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2098.600,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+2099.299,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+2099.300,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+2100.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+2100.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2103.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2103.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2105.849,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2105.850,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2124.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2124.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+2124.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+2124.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2129.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2129.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+2130.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+2130.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,START
+2131.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,STOP
+2131.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2131.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Attack right,,,POINT
+2136.249,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2136.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2136.499,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2136.500,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2136.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2136.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+2136.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+2136.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2137.649,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2137.650,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+2137.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+2137.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2139.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2139.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+2139.149,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+2139.150,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2139.249,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2139.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,START
+2140.849,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,STOP
+2140.850,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+2141.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+2141.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2141.149,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2141.150,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+2141.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+2141.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2142.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2142.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+2143.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+2143.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+2143.449,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+2143.450,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2143.599,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2143.600,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+2145.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+2145.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2145.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2145.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+2301.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+2301.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2302.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2302.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2302.749,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2303.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2321.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2321.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2321.399,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2321.400,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2321.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2321.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+2322.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+2322.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2322.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2322.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,START
+2329.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle left,,,STOP
+2329.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2329.399,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2329.400,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2329.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2329.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2371.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2371.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2371.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2371.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2371.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2372.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,START
+2372.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff left,,,STOP
+2372.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2381.449,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2381.450,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2387.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2387.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2421.249,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2421.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2421.499,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2421.500,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2422.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2422.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2422.599,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2422.600,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2428.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Attack right,,,POINT
+2428.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Attack right,,,POINT
+2431.649,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2431.650,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2431.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2431.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2434.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2434.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2434.399,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2434.400,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2435.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Attack right,,,POINT
+2446.750,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Attack right,,,POINT
+2447.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2447.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2447.599,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2447.600,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2448.499,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2448.500,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2448.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2448.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2454.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Attack right,,,POINT
+2454.649,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2454.650,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2454.849,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2454.850,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2455.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2455.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2456.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2456.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2456.849,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2456.850,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2457.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2457.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2457.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2457.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2457.999,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2458.000,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2464.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Attack right,,,POINT
+2476.500,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Attack right,,,POINT
+2477.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2477.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2477.599,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2477.600,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2478.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2478.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2478.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2478.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2480.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2480.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2481.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2481.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2483.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2483.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,START
+2483.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Huddle right,,,STOP
+2483.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2483.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2483.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2483.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2483.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2485.299,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2485.300,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2485.599,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2485.600,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2523.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2523.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+2523.449,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+2523.450,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2549.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2549.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+2549.499,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+2549.500,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2571.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Attack right,,,POINT
+2596.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2596.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2596.349,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2596.350,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2599.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2599.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2600.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2600.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2603.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2603.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2604.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2604.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2605.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2605.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,START
+2605.399,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact left,,,STOP
+2605.400,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2605.899,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2605.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2606.299,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2606.300,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2612.799,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2612.800,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2613.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2613.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2616.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2616.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2616.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2616.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2620.199,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2620.200,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2621.049,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2621.050,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2651.699,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2651.700,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2652.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2652.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,START
+2653.099,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Left,,,STOP
+2653.100,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2653.399,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2653.400,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2697.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Attack right,,,POINT
+2746.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2746.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,START
+2746.599,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Sniff right,,,STOP
+2746.600,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2748.249,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2748.250,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,START
+2748.549,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Center,,,STOP
+2748.550,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2762.949,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
+2762.950,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,START
+2772.449,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Interact right,,,STOP
+2772.450,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,START
+2786.900,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Attack right,,,POINT
+2787.450,C:/Users/Bunny/Dropbox (JDB)/教育業務/研究/Manoli Lab/scoring voley voles/videos for scoring/photometry videos/SetupTest-171211-135959_V1618-190114-161121_Cam1.avi,11484.850,20.0,,Right,,,STOP
