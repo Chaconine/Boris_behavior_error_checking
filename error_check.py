@@ -1,17 +1,33 @@
 #!/use/bin/env python
 
+from io import StringIO
+
 import argparse
+import difflib
 import glob
+import os
 import pandas as pd
 import re
 import subprocess
+import sys
 
 """Generate the parser for the command line"""
 
 parser = argparse.ArgumentParser(description='Check for errors in BORIS behavior file scoring')
-parser.add_argument('--path', help='Input a string path to the folder BORIS_files_input')
+parser.add_argument('--path', help='Input a string path to the folder boris_files_input')
 
 args = parser.parse_args()
+
+# Prompt user for path if argument is empty or path directory is empty
+def listdir_nohidden(path):
+    return glob.glob(os.path.join(path, '*'))
+
+if not args.path:
+    print("Please enter a path argument to input files with --path (i.e. --path='User/etc/boris_files_input'). Script will now exit!")
+    sys.exit()
+elif len(listdir_nohidden(args.path)) == 0:
+    print("Directory is empty, please place files into boris_files_input folder")
+    sys.exit()   
 
 
 def preprocess_behavior_file(path, reader = "csv", frametimes_path = ""):
@@ -94,6 +110,30 @@ def preprocess_behavior_file(path, reader = "csv", frametimes_path = ""):
             previous_location = current_location
     
     return df
+
+def test_preprocess() -> bool:
+    # Create StringIO object and redirect stdout.
+    captured_output = StringIO()          
+    sys.stdout = captured_output  
+    
+    # Run function
+    prefix_path = args.path[0:args.path.find('/boris_files_input')]
+    path = prefix_path + "/test_boris_files/V1259 PPT RMK.csv"
+    preprocess_behavior_file(path)
+    
+    # Reset redirect.
+    sys.stdout = sys.__stdout__
+
+    if "Check for repeated status event at row for file:" in captured_output.getvalue():
+        return True
+    else:
+        return False
+
+if test_preprocess() == False:
+    print("Tests did not work correctly, check the path and that no modifications have been made to the test directory")
+    sys.exit()
+else:
+    print('Tests passed successfully')
 
 class Animal:
     """An object representing a single animal that contains information about the animal including a BORIS behavior file."""
