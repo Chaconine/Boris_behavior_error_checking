@@ -21,7 +21,7 @@ This script takes in multiple BORIS behavior files and checks for event chronolo
 python3 error_check.py --path=YOUR_PATH_HERE
 ```
 
-#### <ins>Testing (Currently working on automating):</ins>
+#### <ins>Testing:</ins>
 
 If there are errors during runtime, try running the .csvs in the test_boris_files
 
