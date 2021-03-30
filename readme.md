@@ -8,6 +8,8 @@ This script takes in multiple BORIS behavior files and checks for event chronolo
 
 #### <ins>Directions</ins>
 
+![](media/test.gif)
+
 1. Change directory to wanted directory (using cd on the command line) and git clone the repository locally by going to Terminal and typing in the command:
 
 ```
@@ -35,9 +37,9 @@ pipenv install
 ```
 python3 error_check.py --path=YOUR_PATH_HERE
 ```
-
-#### <ins>Testing:</ins>
-
+You should see something like this if you run the examples in the test_boris_files folder:
+![](media/errors.png)
 If there are errors during runtime, try running the .csvs in the test_boris_files
 
-![](media/errors.png)
+* Exit virtual environment by typing 'exit' on command line
+
