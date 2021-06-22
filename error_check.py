@@ -30,13 +30,13 @@ if not args.path:
     print("Please enter a path argument to input files with --path (i.e. --path='User/etc/boris_files_input'). Script will now exit!")
     sys.exit()
 elif len(listdir_nohidden(args.path)) == 0:
-    print("Directory is empty, please place files into boris_files_input folder")
+    print("Directory is empty, please place files into boris_files_input folder, double check you're using the folder path, not a csv path")
     sys.exit()
 
 
 def preprocess_behavior_file(path, reader="csv", frametimes_path=""):
-    """This function preprocesses csv exports from BORIS files and returns a DataFrame object. It also checks 
-    for erroneous BORIS event inputs (i.e. START followed by another START event or STOP followed by another 
+    """This function preprocesses csv exports from BORIS files and returns a DataFrame object. It also checks
+    for erroneous BORIS event inputs (i.e. START followed by another START event or STOP followed by another
     STOP event)"""
 
     if (reader == "csv"):
@@ -47,8 +47,16 @@ def preprocess_behavior_file(path, reader="csv", frametimes_path=""):
     if (frametimes_path):
         frametimes = pd.read_csv(frametimes_path)
 
-    df.columns = df.iloc[14].to_list()
-    df = df.drop(df.index[0:15])
+    # If there is a header, drop it from the dataframe
+    offset = 0
+    if 'Time' not in df.columns:
+        offset = 1
+        df.columns = ['Time', 'Media file path', 'Total length', 'FPS',
+                      'Subject', 'Behavior', 'Behavioral category', 'Comment', 'Status']
+    mask = df['Time'] == 'Time'
+    column_idx = next(
+        iter(mask.index[mask]), 0)
+    df = df.drop(df.index[0:column_idx+offset])
     df = df.drop(["Media file path", "Total length", "FPS",
                   "Subject", "Behavioral category", "Comment"], axis=1)
 
@@ -94,11 +102,13 @@ def preprocess_behavior_file(path, reader="csv", frametimes_path=""):
 
     # Check for errors in BORIS event inputs
     current = "START"
+    num_errors = 0
 
     for i in range(len(df)):
         if df.loc[i, "Status"] != current:
             print("Check for repeated status event at row for file: " +
-                  path + " at " + str(i))
+                  path + " at " + str(i + column_idx + offset + 2 * num_errors))
+            num_errors += 1
         elif current == "START":
             current = "STOP"
         else:
@@ -123,59 +133,9 @@ def preprocess_behavior_file(path, reader="csv", frametimes_path=""):
     return df
 
 
-class Animal:
-    """An object representing a single animal that contains information about the animal including a BORIS behavior file."""
-    animal_id: str
-    behavior_file: str
-    behavior_dataframe: pd.DataFrame
-
-    def __init__(self, animal_id: str, behavior_file: str = "") -> None:
-        if behavior_file:
-            self.behavior_dataframe = preprocess_behavior_file(behavior_file)
-        self.animal_id = animal_id
-
-    def __str__(self) -> str:
-        return self.animal_id
-
-    def set_behavior_file(self, df: pd.DataFrame) -> None:
-        self.behavior_file = df
-
-    def get_behavior_file(self, path: str) -> pd.DataFrame:
-        """Takes in a string path to a BORIS csv file and returns a pandas dataframe"""
-        return pd.read_csv(path)
-
-    def get_animal_id(self) -> str:
-        return self.animal_id
-
-
-class Cohort:
-    """An object representing a cohort of animals that contains information about the cohort including a cohort id, the sex
-    of the cohort, the genotype of the cohort, and the cohort of animals"""
-    cohort = set()
-    cohort_id: str
-    sex: str
-    genotype: str
-
-    def __init__(self, cohort_id, cohort=set()) -> None:
-        self.cohort_id = cohort_id
-        if len(cohort) != 0:
-            self.cohort = cohort
-
-    def __str__(self) -> str:
-        res = 'The current animals in the cohort are: \n'
-        for animal in self.cohort:
-            res += animal.get_animal_id() + '\n'
-        return res
-
-    def add_animal_to_cohort(self, animal: Animal):
-        self.cohort.add(animal)
-
-
-cohort = Cohort('test')
-
-# Generate test cohort of animals from test directory and adding to cohort
-for file in glob.glob(args.path + '/*'):
-    a = re.search('[V][0-9][0-9][0-9][0-9]', file)
-    animal_id = a.group(0)
-    animal = Animal(animal_id, file)
-    cohort.add_animal_to_cohort(animal)
+if __name__ == '__main__':
+    for file in glob.glob(args.path + '/*'):
+        if ".csv" not in file:
+            print('The folder must contain only csv files, script will now exit')
+            break
+        preprocess_behavior_file(file)
